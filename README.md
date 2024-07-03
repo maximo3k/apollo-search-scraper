@@ -1,3 +1,4 @@
+# Apollo.io Search Scraper
 This tool helps to scrape and export a search list from Apollo.
 Apollo.io gives lots of email credits but limits the export credits a lot.
 You can extract the contacts and their emails with this tool.
@@ -8,7 +9,7 @@ It exports the contacts into a CSV file:
 ![image](https://github.com/maximo3k/apollo-scraper/assets/65966638/ab54af88-28f7-4911-9c3d-4bdb7a0150af)
 
 How to use:
-1. Install dependencies
+1. Install dependencies, pref. in virtual environment
 2. Add your Apollo.io login into the config.json file
 3. Add the link of the search that you want to scrape into the config.json file
 4. Add your preferred export file name in the config.json (needs to be CSV)
