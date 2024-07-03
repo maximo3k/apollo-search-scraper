@@ -1,0 +1,6 @@
+{
+    "email": "ID",
+    "password": "PW",
+    "start_url": "https://app.apollo.io/#/people?finderViewId=65b1244b805c1a01c68e1252&personTitles[]=owner&personTitles[]=founder&personTitles[]=co-founder&personTitles[]=ceo&organizationNumEmployeesRanges[]=1,10&personLocations[]=United%20States&qOrganizationKeywordTags[]=3d%20printing&includedOrganizationKeywordFields[]=tags&includedOrganizationKeywordFields[]=name&includedOrganizationKeywordFields[]=social_media_description&includedOrganizationKeywordFields[]=seo_description&contactEmailStatusV2[]=likely_to_engage&contactEmailStatusV2[]=verified",
+    "export_file_name": "export_leads_name.csv"
+  }
